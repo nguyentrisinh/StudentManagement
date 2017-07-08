@@ -1,0 +1,36 @@
+﻿<Window x:Class="QLTH.HocSinhInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLTH"
+        mc:Ignorable="d"
+        Title="HocSinhInfo" Height="350" Width="600" Closing="Window_Closing">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="back1.png" TileMode="FlipXY" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Label x:Name="lbNamNhapHoc" Content="Năm nhập học" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbSTT" Content="Số thứ tự" HorizontalAlignment="Left" Margin="325,19,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbHoVaTen" Content="Họ và tên" HorizontalAlignment="Left" Margin="20,61,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbDiaChi" Content="Địa chỉ" HorizontalAlignment="Left" Margin="20,184,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbGioiTinh" Content="Giới tính" HorizontalAlignment="Left" Margin="325,61,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbNoiSinh" Content="Nơi sinh" HorizontalAlignment="Left" Margin="20,143,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbNgaySinh" Content="Ngày sinh" HorizontalAlignment="Left" Margin="20,102,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbMaLop" Content="Mã lớp" HorizontalAlignment="Left" Margin="20,225,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbTenGVCN" Content="Tên GVCN" HorizontalAlignment="Left" Margin="325,225,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="500,279,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="btnThoat_Click" Background="#FF4E7AC7" BorderBrush="White" Foreground="White"/>
+        <Button x:Name="btnLuu" Content="Lưu" HorizontalAlignment="Left" Margin="400,279,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="btnLuu_Click" Background="#FF4E7AC7" BorderBrush="White" Foreground="White"/>
+        <TextBox x:Name="txtNamNhapHoc" HorizontalAlignment="Left" Height="23" Margin="127,24,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="160"/>
+        <TextBox x:Name="txtSTT" HorizontalAlignment="Left" Height="23" Margin="419,23,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="156"/>
+        <TextBox x:Name="txtHoVaTen" HorizontalAlignment="Left" Height="23" Margin="127,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="160"/>
+        <DatePicker x:Name="dpNgaySinh" HorizontalAlignment="Left" Margin="127,103,0,0" VerticalAlignment="Top" Width="160"/>
+        <TextBox x:Name="txtNoiSinh" HorizontalAlignment="Left" Height="23" Margin="127,147,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="160"/>
+        <ComboBox x:Name="cmbGioiTinh" HorizontalAlignment="Left" Margin="419,65,0,0" VerticalAlignment="Top" Width="156"/>
+        <TextBox x:Name="txtDiaChi" HorizontalAlignment="Left" Height="23" Margin="127,188,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="448"/>
+        <ComboBox x:Name="cmbMaLop" HorizontalAlignment="Left" Margin="127,228,0,0" VerticalAlignment="Top" Width="160" DropDownClosed="cmbMaLop_DropDownClosed"/>
+        <TextBox x:Name="txtTenGVCN" HorizontalAlignment="Left" Height="23" Margin="419,229,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="156"/>
+        <Label x:Name="lbCMND" Content="CMND" HorizontalAlignment="Left" Margin="325,101,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCMND" HorizontalAlignment="Left" Height="23" Margin="419,105,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="156"/>
+    </Grid>
+</Window>

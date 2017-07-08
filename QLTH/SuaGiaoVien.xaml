@@ -1,0 +1,35 @@
+﻿<Window x:Class="QLTH.SuaGiaoVien"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SuaGiaoVien" Height="550" Width="400">
+    <Window.Background>
+        <ImageBrush ImageSource="back1.png"/>
+    </Window.Background>
+    <Grid Margin="0,0,-8,0">
+        <Label Content="Mã giáo viên" HorizontalAlignment="Left" Height="39" Margin="55,54,0,0" VerticalAlignment="Top" Width="98"/>
+        <Label Content="Họ tên" HorizontalAlignment="Left" Height="39" Margin="55,98,0,0" VerticalAlignment="Top" Width="98"/>
+        <Label Content="Giới tính" HorizontalAlignment="Left" Height="39" Margin="55,142,0,0" VerticalAlignment="Top" Width="98"/>
+        <Label Content="Khoa" HorizontalAlignment="Left" Height="39" Margin="55,186,0,0" VerticalAlignment="Top" Width="98"/>
+        <Label Content="Địa chỉ " HorizontalAlignment="Left" Height="39" Margin="55,230,0,0" VerticalAlignment="Top" Width="98"/>
+        <Label Content="Ngày vào làm" HorizontalAlignment="Left" Height="39" Margin="55,274,0,0" VerticalAlignment="Top" Width="98"/>
+        <Label Content="Hệ số lương" HorizontalAlignment="Right" Height="39" Margin="0,318,239,0" VerticalAlignment="Top" Width="98"/>
+        <Label Content="Mức lương" HorizontalAlignment="Left" Height="39" Margin="55,362,0,0" VerticalAlignment="Top" Width="98"/>
+        <TextBlock x:Name="Magv_sua" HorizontalAlignment="Left" Height="39" Margin="158,54,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="212" Background="#FFE8E3E1"/>
+        <TextBox x:Name="Hoten_sua" HorizontalAlignment="Left" Height="39" Margin="157,98,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="213"/>
+        <TextBox x:Name="Diachi_sua" HorizontalAlignment="Left" Height="39" Margin="157,230,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="213"/>
+        <DatePicker x:Name="Ngay_sua" HorizontalAlignment="Left" Height="39" Margin="157,274,0,0" VerticalAlignment="Top" Width="212"/>
+        <TextBox x:Name="Heso_sua" HorizontalAlignment="Left" Height="39" Margin="157,318,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="213"/>
+        <TextBox x:Name="Luong_sua" HorizontalAlignment="Left" Height="39" Margin="157,362,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="213"/>
+        <Button Content="Lưu" HorizontalAlignment="Left" Height="47" Margin="246,462,0,0" VerticalAlignment="Top" Width="124" Click="Button_Click" Background="#FF4E7AC7" BorderBrush="White" Foreground="White"/>
+        <ComboBox x:Name="Gioitinh_sua" HorizontalAlignment="Left" Height="39" Margin="157,142,0,0" VerticalAlignment="Top" Width="212">
+            <ComboBoxItem Content="Nam"/>
+            <ComboBoxItem Content="Nữ"/>
+        </ComboBox>
+        <TextBlock x:Name="heso_tick" HorizontalAlignment="Left" Height="39" Margin="10,318,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" FontSize="14" Foreground="#FFB21919"/>
+        <TextBlock x:Name="luong_tick" HorizontalAlignment="Left" Height="39" Margin="10,362,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40" Foreground="#FFB21919" FontSize="14"/>
+        <ComboBox x:Name="cmbKhoa" HorizontalAlignment="Left" Margin="158,186,0,0" VerticalAlignment="Top" Width="211" Height="39"/>
+        <Label Content="CMND" HorizontalAlignment="Left" Height="36" Margin="56,406,0,0" VerticalAlignment="Top" Width="97"/>
+        <TextBox x:Name="txtCMND" HorizontalAlignment="Left" Height="36" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" Margin="158,406,0,0" FontSize="14"/>
+
+    </Grid>
+</Window>

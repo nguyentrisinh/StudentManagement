@@ -1,0 +1,24 @@
+﻿<Window x:Class="QLTH.MonHocInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLTH"
+        mc:Ignorable="d"
+        Title="MonHocInfo" Height="350" Width="450" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="label" Content="Mã môn học" HorizontalAlignment="Left" Margin="40,25,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMaMH" HorizontalAlignment="Left" Height="23" Margin="179,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="167"/>
+        <Label x:Name="label_Copy" Content="Tên môn học" HorizontalAlignment="Left" Margin="40,73,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtTenMH" HorizontalAlignment="Left" Height="23" Margin="179,77,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="167"/>
+        <Label x:Name="label_Copy1" Content="Khoa" HorizontalAlignment="Left" Margin="40,121,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbKhoa" HorizontalAlignment="Left" Margin="179,124,0,0" VerticalAlignment="Top" Width="167"/>
+        <Label x:Name="label_Copy2" Content="Số cột điểm HS1" HorizontalAlignment="Left" Margin="40,169,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbHS1" HorizontalAlignment="Left" Margin="179,172,0,0" VerticalAlignment="Top" Width="167"/>
+        <Label x:Name="label_Copy3" Content="Số cột điểm HS2" HorizontalAlignment="Left" Margin="40,217,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbHS2" HorizontalAlignment="Left" Margin="179,220,0,0" VerticalAlignment="Top" Width="167"/>
+        <Button x:Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="330,275,0,0" VerticalAlignment="Top" Width="75" Click="btnThoat_Click"/>
+        <Button x:Name="btnLuu" Content="Lưu" HorizontalAlignment="Left" Margin="210,275,0,0" VerticalAlignment="Top" Width="75" Click="btnLuu_Click"/>
+
+    </Grid>
+</Window>

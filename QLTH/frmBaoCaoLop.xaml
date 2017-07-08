@@ -1,0 +1,16 @@
+﻿<Window x:Class="QLTH.frmBaoCaoLop"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLTH"
+        mc:Ignorable="d"
+        xmlns:rv="clr-namespace:Microsoft.Reporting.WinForms;assembly=Microsoft.ReportViewer.WinForms" 
+        Title="frmBaoCaoLop" Height="600" Width="600" Loaded="Window_Loaded">
+    <Grid>
+        <WindowsFormsHost HorizontalAlignment="Left" Height="550" Margin="10,10,0,0" VerticalAlignment="Top" Width="574">
+            <rv:ReportViewer x:Name="ReportViewerDemo" />
+        </WindowsFormsHost>
+
+    </Grid>
+</Window>

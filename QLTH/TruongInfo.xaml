@@ -1,0 +1,20 @@
+﻿<Window x:Class="QLTH.TruongInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLTH"
+        mc:Ignorable="d"
+        Title="TruongInfo" Height="300" Width="700">
+    <Grid>
+        <Label x:Name="label" Content="Tên trường" HorizontalAlignment="Left" Margin="50,45,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtTenTrg" HorizontalAlignment="Left" Height="23" Margin="174,49,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="450"/>
+        <Label x:Name="label1" Content="Địa chỉ" HorizontalAlignment="Left" Margin="50,106,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDiaChi" HorizontalAlignment="Left" Height="23" Margin="174,107,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="450"/>
+        <Label x:Name="label1_Copy" Content="Hiệu trưởng" HorizontalAlignment="Left" Margin="50,167,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtHieuTruong" HorizontalAlignment="Left" Height="23" Margin="174,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="450"/>
+        <Button x:Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="549,224,0,0" VerticalAlignment="Top" Width="75" Click="btnThoat_Click"/>
+        <Button x:Name="btnLuu" Content="Lưu" HorizontalAlignment="Left" Margin="425,224,0,0" VerticalAlignment="Top" Width="75" Click="btnLuu_Click"/>
+
+    </Grid>
+</Window>

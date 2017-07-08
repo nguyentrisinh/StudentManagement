@@ -1,0 +1,23 @@
+﻿<Window x:Class="QLTH.KhoaInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLTH"
+        mc:Ignorable="d"
+        Title="KhoaInfo" Height="600" Width="658">
+    <Grid>
+        <Label x:Name="label" Content="Tên khoa" HorizontalAlignment="Left" Margin="80,60,0,0" VerticalAlignment="Top" Width="84" FontSize="14"/>
+        <TextBox x:Name="txtTenKhoa" HorizontalAlignment="Left" Height="23" Margin="292,66,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="256"/>
+        <Label x:Name="label1" Content="Mã và tên trưởng khoa" HorizontalAlignment="Left" Margin="80,135,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbTruongKhoa" HorizontalAlignment="Left" Margin="292,138,0,0" VerticalAlignment="Top" Width="256"/>
+        <Button x:Name="btnLuu" Content="Lưu" HorizontalAlignment="Left" Margin="356,205,0,0" VerticalAlignment="Top" Width="75" Click="btnLuu_Click"/>
+        <Button x:Name="btnHuy" Content="Hủy" HorizontalAlignment="Left" Margin="470,205,0,0" VerticalAlignment="Top" Width="75" Click="btnHuy_Click"/>
+        <DataGrid x:Name="dgvKhoa" HorizontalAlignment="Left" Margin="10,264,0,0" VerticalAlignment="Top" Height="240" Width="631"/>
+        <Button x:Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="554,525,0,0" VerticalAlignment="Top" Width="75" Click="btnThoat_Click"/>
+        <Button x:Name="btnSua" Content="Sửa" HorizontalAlignment="Left" Margin="442,525,0,0" VerticalAlignment="Top" Width="75" Click="btnSua_Click"/>
+        <Button x:Name="btnNhap" Content="Nhập" HorizontalAlignment="Left" Margin="326,525,0,0" VerticalAlignment="Top" Width="75" Click="btnNhap_Click"/>
+        <Button x:Name="btnXoa" Content="Xóa" HorizontalAlignment="Left" Margin="213,525,0,0" VerticalAlignment="Top" Width="75" Click="btnXoa_Click"/>
+
+    </Grid>
+</Window>

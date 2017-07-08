@@ -1,0 +1,440 @@
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\bin\Debug\QLTH.exe.config
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\bin\Debug\QLTH.exe
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\bin\Debug\QLTH.pdb
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\App.g.cs
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\MainWindow.baml
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\QLTH.g.resources
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\QLTH.exe
+c:\users\trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\QLTH.pdb
+C:\Users\Trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\Simple Styles.baml
+C:\Users\Trung\documents\visual studio 2015\Projects\QLTH\QLTH\obj\Debug\App.baml
+C:\Users\Tri Sinh\Desktop\QLTH\QLTH\bin\Debug\QLTH.exe.config
+C:\Users\Tri Sinh\Desktop\QLTH\QLTH\obj\Debug\QLTH.exe
+C:\Users\Tri Sinh\Desktop\QLTH\QLTH\obj\Debug\QLTH.pdb
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\bin\Debug\QLTH.exe.config
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QLTH.exe
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QLTH.pdb
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\bin\Debug\QLHS.mdf
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\bin\Debug\QLTH.exe
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\bin\Debug\QLTH.pdb
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\Simple Styles.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\App.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\App.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\MainWindow.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QLTH.g.resources
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\LopInfo.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe.config
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\bin\Debug\QLHS.mdf
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\bin\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\Simple Styles.baml
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\App.g.cs
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\App.baml
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\LopInfo.baml
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\MainWindow.baml
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\QLTH.g.resources
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+C:\Users\Trung\Desktop\QLTH\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe.config
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\QLTH.exe
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\QLTH.pdb
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\bin\Debug\QLHS.mdf
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\bin\Debug\QLTH.pdb
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\Simple Styles.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\App.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\App.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\LopInfo.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\MainWindow.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\QLTH.g.resources
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe.config
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\bin\Debug\QLHS.mdf
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\bin\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\Simple Styles.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\App.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\App.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\LopInfo.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\MainWindow.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\QLTH.g.resources
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe.config
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLHS.mdf
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\Simple Styles.baml
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\App.g.cs
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\App.baml
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\LopInfo.baml
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\MainWindow.baml
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.g.resources
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+C:\Users\Trung\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe.config
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.exe
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.pdb
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLHS.mdf
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLTH.exe
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\bin\Debug\QLTH.pdb
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\Simple Styles.baml
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\App.baml
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\LopInfo.baml
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.g.resources
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\AddAccountWindow.g.cs
+C:\Users\Asus\Desktop\QLTH_Trung_da_them_vai_thu\QLTH\QLTH\QLTH\obj\Debug\AddAccountWindow.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLTH.exe.config
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLHS.mdf
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\Simple Styles.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\AddAccountWindow.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\App.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\App.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\AddAccountWindow.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\LopInfo.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\MainWindow.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.g.resources
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLTH.exe.config
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.exe
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.pdb
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLHS.mdf
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLTH.exe
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\QLTH.pdb
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\Simple Styles.baml
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\AddAccountWindow.g.cs
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\App.g.cs
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\App.baml
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\AddAccountWindow.baml
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\LopInfo.baml
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\MainWindow.baml
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.g.resources
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+C:\Users\Tri Sinh\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\AddAccountWindow.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\Report_GiaoVien.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\AddAccountWindow.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\Report_GiaoVien.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\RdlCompile.cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\RdlCompile.compiled
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\ChangePass.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\DangNhap.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\ChangePass.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\DangNhap.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\bin\Debug\QLTH.exe.config
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\QLTH.exe
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\QLTH.pdb
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\bin\Debug\QLHS.mdf
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\bin\Debug\QLTH.exe
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\bin\Debug\QLTH.pdb
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\ChangePass.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\DangNhap.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\Simple Styles.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\AddAccountWindow.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\ChangePass.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\DangNhap.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\Report_GiaoVien.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\App.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\App.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\AddAccountWindow.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\LopInfo.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\MainWindow.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\Report_GiaoVien.baml
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\QLTH.g.resources
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\RdlCompile.cache
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 latest unknown SQL version\QLTH\QLTH\obj\Debug\RdlCompile.compiled
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 SQL 2016\QLTH\QLTH\bin\Debug\QLTH.exe.config
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 SQL 2016\QLTH\QLTH\obj\Debug\QLTH.exe
+D:\Sinh\hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Sinh\23-5-2016 SQL 2016\QLTH\QLTH\obj\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\ChangePass.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\DangNhap.baml
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\ChangePass.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\DangNhap.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\Report_GiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_3\QLTH\QLTH\obj\Debug\Report_GiaoVien.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\bin\Debug\QLTH.exe.config
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QLTH.exe
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QLTH.pdb
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\bin\Debug\QLHS.mdf
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\bin\Debug\QLTH.exe
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\bin\Debug\QLTH.pdb
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\ChangePass.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\DangNhap.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\Simple Styles.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\AddAccountWindow.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\ChangePass.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\DangNhap.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\Report_GiaoVien.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\App.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\App.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\AddAccountWindow.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\LopInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\MainWindow.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\Report_GiaoVien.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QLTH.g.resources
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\RdlCompile.cache
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\RdlCompile.compiled
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\frmBaoCaoLop.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\frmBaoCaoMonHoc.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\frmHocSinhBaoCao.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\KhoaInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\MonHocInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\NamHocInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QuyDinh.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\TruongInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\frmBaoCaoLop.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\frmBaoCaoMonHoc.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\frmHocSinhBaoCao.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\KhoaInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\MonHocInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\NamHocInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\QuyDinh.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\Backup\Trung\29-5-2016 SQL 2014\Ver2\QLTH\QLTH\obj\Debug\TruongInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\NhapDiem.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\SuaDiem.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmBaoCaoLop.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmBaoCaoMonHoc.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmHocSinhBaoCao.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\KhoaInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\MonHocInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\NamHocInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\NhapDiem.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QuyDinh.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\SuaDiem.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\TruongInfo.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmBaoCaoLop.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmBaoCaoMonHoc.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmHocSinhBaoCao.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\KhoaInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\MonHocInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\NamHocInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\QuyDinh.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\TruongInfo.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmBangDiemHocSinh.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmBangDiemHocSinh.baml
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmDanhSachLop.g.cs
+D:\Sinh\Hoc tap\Nam 2\HK2\Lap trinh truc quan\Đồ án môn học\QLTH\QLTH\obj\Debug\frmDanhSachLop.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\bin\Debug\QLTH.exe.config
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\bin\Debug\QLHS.mdf
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\bin\Debug\QLHS_log.ldf
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\bin\Debug\QLTH.exe
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\bin\Debug\QLTH.pdb
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QLTH.csprojResolveAssemblyReference.cache
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\ChangePass.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\DangNhap.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\NhapDiem.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\Simple Styles.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\SuaDiem.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\SuaGiaoVien.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\ThemGiaoVien.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\AddAccountWindow.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\ChangePass.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\DangNhap.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmBangDiemHocSinh.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmBaoCaoLop.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmBaoCaoMonHoc.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmDanhSachLop.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmHocSinhBaoCao.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\HocSinhInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\KhoaInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\LopInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\MainWindow.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\MonHocInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\NamHocInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\NhapDiem.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QuyDinh.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\Report_GiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\SuaDiem.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\SuaGiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\ThemGiaoVien.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\TruongInfo.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\App.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QLTH_Content.g.cs
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.cache
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QLTH_MarkupCompile.lref
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\App.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\AddAccountWindow.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmBangDiemHocSinh.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmBaoCaoLop.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmBaoCaoMonHoc.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmDanhSachLop.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\frmHocSinhBaoCao.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\HocSinhInfo.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\KhoaInfo.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\LopInfo.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\MainWindow.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\MonHocInfo.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\NamHocInfo.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QuyDinh.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\Report_GiaoVien.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\TruongInfo.baml
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QLTH.g.resources
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QLTH.Properties.Resources.resources
+C:\Users\Trung\Desktop\QLTH_2\QLTH\QLTH\obj\Debug\QLTH.csproj.GenerateResource.Cache
